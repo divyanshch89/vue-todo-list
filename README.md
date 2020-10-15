@@ -1,4 +1,4 @@
-# todolist-crash-course
+# Todo List
 
 ## Project setup
 ```
